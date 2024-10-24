@@ -1,6 +1,6 @@
 
 # Hello👋 my name is Wilfredo Pino
-
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
 
 
 <!--

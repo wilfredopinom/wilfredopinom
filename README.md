@@ -1,4 +1,7 @@
-# Hello👋 my name is Wilfredo Pino 
+<center>
+# Hello👋 my name is Wilfredo Pino
+</center>
+
 
 <!--
 **wilfredopinom/wilfredopinom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

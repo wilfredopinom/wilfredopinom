@@ -1,6 +1,6 @@
-<center>
+
 # Hello👋 my name is Wilfredo Pino
-</center>
+
 
 
 <!--

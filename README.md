@@ -1,7 +1,7 @@
 
 # Hello👋 my name is Wilfredo Pino
 
-[![Image of https://github.com/wilfredopinom/my-views-counter](https://github.com/wilfredopinom/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wilfredopinom/my-views-counter)
+[![Image of https://github.com/wilfredopinom/my-views_counter](https://github.com/wilfredopinom/my-views_counter/blob/master/svg/profile/badge.svg)](https://github.com/wilfredopinom/my-views_counter)
 
 
 <!--

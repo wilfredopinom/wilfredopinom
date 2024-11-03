@@ -32,3 +32,14 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+
+## CV
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <a href="https://wilfredopinom.github.io/Resumen_CV/" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/6186/6186023.png" alt="Web Icon" width="50" height="50">
+  </a>
+</div>
+
+
+

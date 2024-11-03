@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ## Contact
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.linkedin.com/in/wilfredo-pino/" target="_blank">
     <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="LinkedIn Logo" width="50" height="50">
   </a>
 
-  <a href="mailto:gmail@gmail.com">
+  <a href="mailto:tuemail@gmail.com">
     <img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG10.png" alt="Gmail Logo" width="50" height="50">
   </a>
 </div>

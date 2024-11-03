@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![An image of @wilfredopinom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wilfredopinom)](https://holopin.io/@wilfredopinom)
+
+
+## Contact
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<a href="https://www.linkedin.com/in/wilfredo-pino/" target="_blank">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="Java Logo" width="50" height="50">
+  </a>
+</div>
